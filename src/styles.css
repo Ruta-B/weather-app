@@ -1,6 +1,8 @@
 body {
   background: #4b6a78;
   font-family: "Roboto", sans-serif;
+  border: 5px double #bab6ab;
+  height: 900px;
 }
 
 a {
@@ -68,7 +70,7 @@ main {
 }
 
 .current-details strong {
-  color: #f65282;
+  color: #41a6c0;
 }
 
 .current-temperature-icon {
